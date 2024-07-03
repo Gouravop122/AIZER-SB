@@ -31,8 +31,8 @@ async def ping(ctx):
 async def help(ctx):
     help_message = (
         "**```js\n"
-        "🚀 AIZER SELF BOT 🚀\n"
-        " - DISCORD.GG/NTOP - \n\n"
+        "🚀 Dracula SELF BOT 🚀\n"
+        " - DISCORD.GG/QTIES - \n\n"
         "• Gnrl\n"
         "• Nuke\n\n"
         "! ALSO CHECK COMMANDS ALIASES IN CODE !\n"
@@ -44,8 +44,8 @@ async def help(ctx):
 async def gnrl(ctx):
     gnrl_message = (
         "**```js\n"
-        "🚀 AIZER SELF BOT 🚀\n"
-        " - DISCORD.GG/NTOP - \n\n"
+        "🚀 DRACULA SELF BOT 🚀\n"
+        " - DISCORD.GG/QTIES - \n\n"
         "ping\n"
         "say  \n"
         "userinfo  \n"
@@ -68,8 +68,8 @@ async def nuke(ctx):
          
          nuke_message = (
         "**```js\n"
-        "🚀 AIZER SELF BOT 🚀\n"
-        " - DISCORD.GG/NTOP - \n\n"
+        "🚀 DRACULA SELF BOT 🚀\n"
+        " - DISCORD.GG/QTIES - \n\n"
         "spam \n"
         "sendhook \n"
         "iplookup \n"
